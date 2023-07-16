@@ -1,0 +1,40 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Rowdies', cursive;
+    margin-top: 20px;
+    font-size: 70px;
+    color: gray;
+}
+
+.link {
+    font-size: 100px;
+    display: inline-block;
+    margin: 200px 100px;
+    color: black;
+    background-color: gray;
+    padding: 100px;
+    border-radius: 50px 0px;
+    text-decoration: none;
+}
+
+.fast {
+    font-size: 20px;
+    position: relative;
+    top: 80px;
+
+
+}
+
+.last {
+    font-size: 20px;
+    position: relative;
+    top: 80px;
+}

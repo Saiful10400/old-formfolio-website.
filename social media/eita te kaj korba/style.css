@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.parent{
+    width: 70%;
+    height: 300px;
+    margin: 200px auto;
+    background-color: #959baa7a;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.parent a {
+    margin-top: 20px;
+    padding:50px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: white;
+    color: blue;
+    font-size:;
+}
